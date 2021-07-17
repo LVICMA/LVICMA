@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LVICMA
-- 👀 I’m interested in C#, Unity, Dart and AI
+- 👀 I’m interested in C#, Unity, and DSA
 - 🌱 I’m currently learning DSA
 - 🤝 I’m looking to collaborate on any project
 - 📫 You can reach me here https://linktr.ee/LVICMA
