@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LVICMA
-- 👀 I’m interested in C#, Unity, and DSA
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Game Development and Cybersecurity
+- 🌱 I’m currently learning Java, C# and C++
 - 🤝 I’m looking to collaborate on any project
 - 📫 You can reach me here https://linktr.ee/LVICMA
 
