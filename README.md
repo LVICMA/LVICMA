@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LVICMA
-- 👀 I’m interested in Game Development and Cybersecurity
-- 🌱 I’m currently learning Java, C# and C++
+- 👀 I’m interested in Cybersecurity and Game Development
+- 🌱 I’m currently learning Java, Cybersecurity Topics and Shell Script
 - 🤝 I’m looking to collaborate on any project
 - 📫 You can reach me here https://linktr.ee/LVICMA
 
