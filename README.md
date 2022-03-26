@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LVICMA
-- 👀 I’m interested in Cybersecurity and Cloud Commputing
+- 👋 Hi, my name is Vincent Acuña
+- 👀 I’m interested in Cybersecurity and game development.
 - 🌱 I’m currently learning Java, C/C++ and Python.
 - 🤝 I’m looking to collaborate on any project
 - 📫 You can reach me here https://linktr.ee/LVICMA
