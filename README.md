@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Vincent Acuña
-- 👀 I’m interested in Cybersecurity and game development.
-- 🌱 I’m currently learning Java, C/C++ and Python.
+- 👋 Hi, my name is Vincent Acua
+- 👀 I’m interested in Digital Image Processing, Cybersecurity and game development.
+- 🌱 I learned some C/C++ and MATLAB, but I´m interested in learning other languages.
 - 🤝 I’m looking to collaborate on any project
-- 📫 You can reach me here https://linktr.ee/LVICMA
+- 📫 You can reach me here vincent.acuna@proton.me
 
 <!---
 LVICMA/LVICMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
